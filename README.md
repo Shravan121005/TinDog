@@ -16,4 +16,4 @@ Tindog is a fun and responsive frontend website designed to help dogs meet each 
 - **Bootstrap 5**  
 
 ## 📸 Preview  
-Check out the live demo: [Tindog GitHub Pages](https://your-username.github.io/Tindog/)  
+Check out the live demo: https://shravan121005.github.io/TinDog/ 
